@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 o4
 test13
+=======
+o2
+>>>>>>> test14
 a
 bk
 tl
